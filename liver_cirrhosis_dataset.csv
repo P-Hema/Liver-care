@@ -1,0 +1,6 @@
+Age,Gender,Total_Bilirubin,Direct_Bilirubin,Alkaline_Phosphotase,Alamine_Aminotransferase,Aspartate_Aminotransferase,Total_Proteins,Albumin,Albumin_and_Globulin_Ratio,Liver_Cirrhosis
+45,Male,1.1,0.3,210,35,42,6.5,3.0,0.9,1
+58,Female,2.3,0.7,320,48,65,6.2,2.8,0.8,1
+37,Male,0.9,0.2,180,30,38,7.0,3.5,1.1,0
+50,Female,1.5,0.5,275,44,60,6.8,3.2,1.0,0
+62,Male,2.8,1.0,390,55,70,5.9,2.5,0.7,1
